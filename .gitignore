@@ -1,2 +1,2 @@
 images/disc/*
-!images/disc
+!images/disc/.gitkeep
